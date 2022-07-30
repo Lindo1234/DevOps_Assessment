@@ -12,3 +12,6 @@
 - Installed the Pytest package using $sudo pip3 install pytest command
 - I changed the value to 4
 - I ran pytest question2.py and the test passed.
+
+#Question 3
+- 
